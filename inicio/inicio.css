@@ -212,7 +212,7 @@ button:hover {
 .hero-text-1 {
   max-width: 40rem;
   text-align: right;
-  margin: 5rem 0 0 65rem;
+  margin: 5rem 5% 0 auto; /* Margen derecho del 5% y margen izquierdo automático */
 }
 .hero-carousel p{
   color: white;
@@ -220,7 +220,7 @@ button:hover {
 
 .hero-text-2 {
   max-width: 40rem;
-  margin: 5rem 60rem 0 0;
+  margin: 5rem auto 0 5%; /* Margen izquierdo del 5% y margen derecho automático */
   animation: none; /* Por defecto, sin animación */
 }
 
@@ -228,6 +228,7 @@ button:hover {
   max-width: 30rem;
   margin: 5rem 72rem 0 0;
   animation: none; /* Por defecto, sin animación */
+  margin: 5rem auto 0 10%; /* Margen izquierdo del 10% y margen derecho automático */
 }
 
 .hero-carousel p{

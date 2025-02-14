@@ -218,11 +218,6 @@ width: 25%;
 
 .te-mes-descripcion{
  text-align: center;
- font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
- font-weight: 500;
- background-color: rgb(255, 206, 173);
- box-shadow: 0 5px 6px rgba(0, 0, 0, 0.1);
- border-radius: 1rem;
 }
 
 .te-mes-titulo{
@@ -299,11 +294,6 @@ margin-top: 5rem;
 
  .oferta-descripcion{
   text-align: center;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  font-weight: 500;
-  background-color: rgb(255, 206, 173);
-  box-shadow: 0 5px 6px rgba(0, 0, 0, 0.1);
-  border-radius: 1rem;
  }
 
  .oferta-titulo{
